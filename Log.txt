@@ -1,0 +1,23 @@
+05-08-2024 18:35:44
+Association of chubby cheeks
+Added new timber Перелік продуктів:
+Timber{wood=null, lehgth=3.0, height=1.0, width=1.0}
+
+06-08-2024 16:14:36
+Association of chubby cheeks
+Added new wood Wood{id=3, name='mm,', density=1.0}
+Added new waste Перелік продуктів:
+Waste{weight=3.0}
+
+Added new timber Перелік продуктів:
+Waste{weight=3.0}
+Timber{wood=Wood{id=1, name='Модрина', density=1.1}, lehgth=3.0, height=2.0, width=1.0}
+
+07-08-2024 10:30:46
+Association of chubby cheeks
+Added new wood Wood{id=4, name='jfr', density=1.0}
+07-08-2024 10:32:00
+Association of chubby cheeks
+Added new timber Перелік продуктів:
+Timber{wood=Wood{id=2, name='Ялина', density=0.9}, lehgth=3.0, height=1.0, width=1.0}
+
